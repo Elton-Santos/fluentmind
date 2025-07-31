@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Visão Geral do Projeto"
+---
+
 # Visão Geral do Projeto FluentMind
 
 ## Nome do Projeto

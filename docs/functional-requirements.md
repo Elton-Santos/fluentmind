@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Requisitos Funcionais"
+---
+
 # Requisitos Funcionais - FluentMind
 
 ## 1. Gestão de Canais de Comunicação

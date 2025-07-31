@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Arquitetura da Solução"
+---
+
 # Arquitetura da Solução FluentMind
 
 ## Visão Geral da Arquitetura

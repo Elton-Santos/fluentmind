@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Requisitos Não Funcionais"
+---
+
 # Requisitos Não Funcionais - FluentMind
 
 ## 1. Escalabilidade

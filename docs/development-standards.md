@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Padrões de Desenvolvimento"
+---
+
 # Padrões de Desenvolvimento - FluentMind
 
 ## 1. Padrões de Código Apex

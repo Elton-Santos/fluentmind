@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Roadmap do Projeto"
+---
+
 # Roadmap do Projeto FluentMind
 
 ## Cronograma Geral

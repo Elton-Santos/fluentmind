@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Configuração GitHub Pages"
+---
+
 # Configuração do GitHub Pages - FluentMind
 
 ## 📖 Sobre o GitHub Pages

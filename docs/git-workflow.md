@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Git Workflow"
+---
+
 # Estrutura de Branches Git - FluentMind
 
 ## Estratégia de Branching
