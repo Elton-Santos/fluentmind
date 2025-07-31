@@ -1,0 +1,76 @@
+# FluentMind Documentation - GitHub Pages Configuration
+
+# Site settings
+title: "FluentMind - Documentação Técnica"
+description: "Plataforma de comunicação inteligente com IA para Salesforce"
+url: "https://[seu-usuario].github.io"
+baseurl: "/FluentMind"
+
+# GitHub Pages settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+header_pages:
+  - overview.md
+  - roadmap.md
+  - architecture.md
+  - data-model.md
+  - functional-requirements.md
+  - non-functional-requirements.md
+  - git-workflow.md
+  - development-standards.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - README.md
+
+# Include these files in processing
+include:
+  - _pages
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "page"
+
+# SEO settings
+author: "Equipe FluentMind"
+lang: "pt-BR"
+
+# Social links (opcional)
+github_username: [seu-usuario]
+
+# Analytics (adicionar quando necessário)
+# google_analytics: UA-XXXXXXXX-X
