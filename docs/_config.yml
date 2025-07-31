@@ -3,8 +3,8 @@
 # Site settings
 title: "FluentMind - Documentação Técnica"
 description: "Plataforma de comunicação inteligente com IA para Salesforce"
-url: "https://[seu-usuario].github.io"
-baseurl: "/FluentMind"
+url: "https://elton-santos.github.io"
+baseurl: "/fluentmind"
 
 # GitHub Pages settings
 theme: minima
